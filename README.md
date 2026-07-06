@@ -20,6 +20,6 @@ We work with modern technologies including HTML5, CSS3, JavaScript, React, PHP, 
 - Reliable maintenance and scalable architecture.
 
 ---
-**👨‍💻 Founded By:** Smit V Soni & Sneh N Moradiya  
-**📧 Contact Us:** smitpatdiya7452@gmail.com | snehmoradiya05@gmail.com  
-**📞 Phone:** +91 97143 36123 | +91 98248 82580
+**👨‍💻 Founded By:** Smit V Soni  
+**📧 Contact Us:** smitpatdiya7452@gmail.com  
+**📞 Phone:** +91 97143 36123
